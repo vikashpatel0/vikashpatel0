@@ -1,11 +1,11 @@
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1YFmElQ8DojwydZLtv-czYBZH6gdAbTUILQ&s)
+![logo](https://t4.ftcdn.net/jpg/08/70/32/31/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg)
 ## Hi there 👋
-
 <<h1 align="center">Hi 👋, I'm vikash patel</h1>
 <h3 align="center">A passionate software enginnering from India</h3>
 <img align="right"alt="coding" width="350 scr="https://t4.ftcdn.net/jpg/08/70/32/31/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashpatel0&label=Profile%20views&color=0e75b6&style=flat" alt="vikashpatel0" /> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=vikashpatel0&label=Profile%20views&color=0e75b6&style=flat" 
+alt="vikashpatel0" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
